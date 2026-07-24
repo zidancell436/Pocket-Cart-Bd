@@ -1,0 +1,6 @@
+{
+  "name": "Pocket Cart BD",
+  "description": "Pocket Cart BD - All In One Market e-commerce platform with real-time Firebase, Google Sign-In, instant search, and mobile-first experience.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
